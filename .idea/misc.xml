@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="/Library/Frameworks/Python.framework/Versions/3.11/bin/black" />
+    <option name="sdkUUID" value="3b1c337e-ecd5-4c23-8466-744762fa935a" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (taskmanager)" project-jdk-type="Python SDK" />
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
+  </component>
+</project>
